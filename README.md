@@ -9,7 +9,7 @@ Example Python Code to generate a Viseme json file from Azure Cognitive Services
 * Install the [required libraries](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/quickstarts/setup-platform?tabs=linux%2Cubuntu%2Cdotnet%2Cjre%2Cmaven%2Cnodejs%2Cmac%2Cpypi&pivots=programming-language-python)
 * Install Speech SDK for Python
 ```bash
-$ pip install --upgrade azure-cognitiveservices-speech
+$ pip install azure-cognitiveservices-speech
 ```
 
 
